@@ -3,3 +3,4 @@
 *.sh
 data/
 download.py
+model_storage/
