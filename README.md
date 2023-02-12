@@ -10,3 +10,4 @@
 * [NTKL Docs](https://www.nltk.org/)
 * [spaCy Docs](https://spacy.io/)
 * [tqdm github](https://github.com/tqdm/tqdm)
+* [annoy github](https://github.com/spotify/annoy)
