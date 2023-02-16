@@ -1,3 +1,4 @@
+# Chapter 2 Quick Tour of NLP
 ## Links:
 [Dependency parsing with spacy](https://spacy.io/usage/linguistic-features#pos-tagging)
 ## Recomended literature:

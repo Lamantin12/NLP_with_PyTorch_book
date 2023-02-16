@@ -1,4 +1,4 @@
-# Chapter 3 
+# Chapter 3 Foundational Components of NN
 What I've learned from this chapter:
 * Better usage of tqdm
 * Moving avarage concept
